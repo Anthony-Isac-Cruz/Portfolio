@@ -1,4 +1,4 @@
-# Data Analyst working in Dental Insurance
+# Dental Insurance Data Analyst
 
 #### Technical Skills: Python, SQL, Excel VBA
 
@@ -7,5 +7,11 @@
 
 ## Work Experience
 **Actuarial Data Analyst @ Fortune 500 Company (_Feb 2024 - Present_)**
-• Demonstrated Efficient VBA Coding Strategies for the Dental Rewrite Project that allow Underwriters quicker results, in conjunction with Pricing Methodology
-• Managed Logic & consolidation of Excel Tools by documenting end to end data flow, positively affecting Small Group & Large Group Models
+- Demonstrated Efficient VBA Coding Strategies for the Dental Rewrite Project that allow Underwriters quicker results, in conjunction with Pricing Methodology
+- Managed Logic & consolidation of Excel Tools by documenting end to end data flow, positively affecting Small Group & Large Group Models
+
+**Actuarial Data Analyst @ Fortune 500 Company (_Feb 2024 - Present_)**
+- Demonstrated Efficient VBA Coding Strategies for the Dental Rewrite Project that allow Underwriters quicker results, in conjunction with Pricing Methodology
+- Managed Logic & consolidation of Excel Tools by documenting end to end data flow, positively affecting Small Group & Large Group Models
+
+- 

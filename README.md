@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, Excel VBA
 
-## Education=		        		
+## Education		        		
 - B.A., Statistics, Economics Minor | Rutgers University at New Jersey (_January 2019_)
 
 ## Work Experience

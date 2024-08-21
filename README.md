@@ -15,3 +15,10 @@
 - Evaluated monthly reconciliation process of Claims, Membership & Premium Financial Data for Small Group, resulting in 7% more accurate records in relation to the NADP (National Association of Dental Plans) and the finance & actuarial team.
 - Detected flaws in our Individual and Small Group Rating system using MS SQL Server, Oracle & Power Query to troubleshoot Premium Rates for 12 different states across multiple tables
 that make up the final premium rate.
+
+**Paycor Shared Services Data Consultant (_Oct 2021 -Jan 2023_)**
+- Collaborated with cross-functional teams to understand HCM business needs, leading to 30 % of small businesses accounts under my team being updated and processed.
+- Utilized ETL processes to integrate Payroll data such as Deductions & Taxes into the Paycor’s Database while Constructing Reports in Salesforce & working closely Implementation Consultants.
+
+
+
